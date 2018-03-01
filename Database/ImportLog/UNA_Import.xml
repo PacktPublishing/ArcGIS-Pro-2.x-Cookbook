@@ -1,0 +1,76 @@
+<ImportMXDLog>	<Messages>
+		<FileName>E:\GIS\Alabama\UNA.mxd</FileName>
+		<Message>
+			<Name></Name>
+			<MessageType>Error</MessageType>
+			<Severity>High</Severity>
+			<Description>Data frame has at least one annotation group that is enabled and contains graphics</Description>
+			<Code>00017</Code>
+			<ComponentName>General</ComponentName>
+			<ComponentType>Map</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer contains a multilayer line symbol whose symbol widths may result in aliasing when displayed</Description>
+			<Code>20007</Code>
+			<ComponentName>streets</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer contains a multilayer line symbol whose symbol widths may result in aliasing when displayed</Description>
+			<Code>20007</Code>
+			<ComponentName>streets</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Error</MessageType>
+			<Severity>High</Severity>
+			<Description>Data frame has at least one annotation group that is enabled and contains graphics</Description>
+			<Code>00017</Code>
+			<ComponentName>UNA Cont Studies Detail</ComponentName>
+			<ComponentType>Map</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer contains a multilayer line symbol whose symbol widths may result in aliasing when displayed</Description>
+			<Code>20007</Code>
+			<ComponentName>streets</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer contains a multilayer line symbol whose symbol widths may result in aliasing when displayed</Description>
+			<Code>20007</Code>
+			<ComponentName>streets</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Neatlines are not supported and were dropped from the layout.</Description>
+			<Code>20041</Code>
+			<ComponentName>UNA</ComponentName>
+			<ComponentType>Layout</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Legends imported into ArcGIS Pro may appear differently due to improvements in the fitting strategy. Modifications to the default appearance may be required.</Description>
+			<Code>20038</Code>
+			<ComponentName>UNA</ComponentName>
+			<ComponentType>Layout</ComponentType>
+</Message>
+</Messages>
+</ImportMXDLog>

@@ -1,0 +1,13 @@
+<ImportMXDLog>	<Messages>
+		<FileName>C:\Users\tcorbin\Documents\ArcGIS\Packages\MapPackageDemo_93778291-3903-468E-BD3F-3D8CB80D37A1\\v103\\MapPackageDemo.mxd</FileName>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Zoning</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+</Messages>
+</ImportMXDLog>
