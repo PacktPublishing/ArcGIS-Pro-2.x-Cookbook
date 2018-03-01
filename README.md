@@ -9,7 +9,9 @@ Beginning with a refresher on ArcGIS Pro and how to work with projects, this boo
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
+In Database folder, there are five sub-folders. In AthensQuarry.gdb folder, there is one more sub-folder named a0000000c.gdbtable. From that folder, a0000000c.zip.001 needs to be unzipped using PeaZip.
 
+Similarly, in Trippville_GIS.gdb folder, a00000048.gdbtable.zip needs to be unzipped.
 
 The code will look like the following:
 ```
