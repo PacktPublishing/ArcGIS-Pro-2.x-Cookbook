@@ -43,3 +43,7 @@ If you do not have a license for ArcGIS Pro, 3D Analyst extension, or ArcGIS Onl
 * [Mastering ArcGIS Enterprise Administration](https://www.packtpub.com/application-development/mastering-arcgis-enterprise-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788297493)
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788299039">https://packt.link/free-ebook/9781788299039 </a> </p>
